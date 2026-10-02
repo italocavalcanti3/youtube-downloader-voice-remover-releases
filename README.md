@@ -12,7 +12,7 @@ Pegue a versão mais recente em **[Releases](../../releases/latest)**:
 | macOS · Apple Silicon (M1, M2, M3, M4) | `Youtube-Downloader-Voice-Remover-<versão>-Mac-AppleSilicon.dmg` |
 | Windows 10 e 11 | `Youtube-Downloader-Voice-Remover-<versão>-Windows-Instalador.exe` |
 
-O arquivo `.tar.gz` e o `latest.json` são usados pelo próprio app na atualização automática. Não precisa baixar.
+O arquivo `.tar.xz` e o `latest.json` são usados pelo próprio app na atualização automática. Não precisa baixar.
 
 ### macOS: a primeira abertura é bloqueada
 
